@@ -87,6 +87,16 @@ export default class App extends Component {
         title:"Pura Puseh di Desa Kamasan",
         description:"Pura Puseh di Desa Kamasan"
       }
+      ,
+      {
+        key:9,
+        latlng: {
+          latitude: -8.5468114,
+          longitude: 115.40967610000007
+        },
+        title:"Pura Puseh di Desa Kamasan",
+        description:"Pura Puseh di Desa Kamasan"
+      }
    ]
   };
 

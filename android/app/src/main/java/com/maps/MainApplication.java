@@ -1,4 +1,4 @@
-package com.project3;
+package com.maps;
 
 import android.app.Application;
 

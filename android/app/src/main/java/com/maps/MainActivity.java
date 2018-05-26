@@ -1,4 +1,4 @@
-package com.project3;
+package com.maps;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "project3";
+        return "maps";
     }
 }
